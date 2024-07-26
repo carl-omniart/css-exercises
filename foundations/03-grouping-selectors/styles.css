@@ -1,0 +1,14 @@
+.tweedledee {
+  background-color: black;
+  color: white;
+}
+
+.tweedledum {
+  background-color: yellow;
+}
+
+.tweedledee,
+.tweedledum {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
